@@ -2,6 +2,8 @@
 
 A small Python utility to scan and clean a music library for simple DAPs (Digital Audio Players) like the **Echo Snowsky Mini**.
 
+Frequently file types, structure, metadata and character sets can cause comparability issues when syncing a music library to a DAP.
+
 This should only be run on a folder containing a copy of your music library, for example on an SD card to be used exclusively as DAP storage.
 
 It helps fix common “library not refreshing” issues by detecting and optionally removing:
